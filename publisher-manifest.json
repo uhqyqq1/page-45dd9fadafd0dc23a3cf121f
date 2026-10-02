@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "867e4f89905b392b67063715",
+  "owner": "uhqyqq1",
+  "repo": "page-45dd9fadafd0dc23a3cf121f",
+  "title": "海豚湾(Dolphin)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "45dd9fadafd0dc23a3cf121f",
+      "a": "海豚湾(Dolphin)",
+      "b": "",
+      "entity": "海豚湾(Dolphin)",
+      "brand": "海豚湾(Dolphin)",
+      "separator": "",
+      "path": "index.html",
+      "hash": "67491f0be40ea81d6ea2e94c26a851c24b5a7a90369ed32042efac2d8e7c2233",
+      "content": {
+        "keyword1": "海豚湾(Dolphin)",
+        "keyword2": "",
+        "primary_entity": "海豚湾(Dolphin)",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "海豚湾(Dolphin)是官方机场与VPN加速服务，提供稳定节点、流媒体解锁、IPLC 游戏优化及多端客户端下载，帮助您完成订阅导入与网络加速。",
+          "AI_DESCRIPTION": "海豚湾(Dolphin)是官方机场与VPN加速服务，提供稳定节点、流媒体解锁、IPLC 游戏优化及多端客户端下载，帮助您完成订阅导入与网络加速。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box}html,body{margin:0;padding:0;overflow-x:hidden}body{font-family:system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;background:#071422;color:#e8f4ff;font-size:16px;line-height:1.65}a{color:#20e3c8;text-decoration:none}a:hover{text-decoration:underline}header,main,footer{max-width:960px;margin:0 auto;padding:16px}header{padding-top:20px;padding-bottom:8px}nav{display:flex;flex-wrap:wrap;gap:10px 14px;margin:12px 0 4px;font-size:14px}h1{font-size:1.65rem;line-height:1.35;margin:12px 0 10px;color:#fff}h2{font-size:1.28rem;color:#20e3c8;margin:28px 0 12px;padding-bottom:6px;border-bottom:1px solid #1a3a55}h3{font-size:1.05rem;margin:16px 0 8px;color:#c5e8ff}p,li{color:#d7eaf7}ul,ol{padding-left:1.2em;margin:8px 0 12px}.muted{color:#8fb3c9;font-size:14px}.plans{display:flex;flex-wrap:wrap;gap:12px}.card{flex:1 1 250px;background:#0e2438;border:1px solid #1a3a55;border-radius:10px;padding:14px 16px}.card.featured{border-color:#20e3c8}.price{font-size:1.35rem;font-weight:700;color:#fff;margin:6px 0}.tag{display:inline-block;background:#12324c;color:#20e3c8;font-size:12px;padding:2px 8px;border-radius:999px;margin-bottom:6px}details{background:#0e2438;border:1px solid #1a3a55;border-radius:8px;padding:10px 12px;margin:8px 0}summary{cursor:pointer;font-weight:600;color:#c5e8ff}details p{margin:8px 0 4px}.box{background:#0e2438;border-radius:10px;padding:14px 16px;border:1px solid #1a3a55}footer{border-top:1px solid #1a3a55;margin-top:24px;padding-bottom:28px;color:#8fb3c9;font-size:14px}.links{display:flex;flex-wrap:wrap;gap:8px 12px;margin:8px 0}</style><header><p class=\"muted\">海豚湾(Dolphin) 官方网站</p><nav><a href=\"#intro\">品牌简介</a><a href=\"#plans\">套餐方案</a><a href=\"#scenes\">使用场景</a><a href=\"#guide\">配置流程</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a></nav></header><main><h1>海豚湾(Dolphin) 官方机场 · VPN 网络加速与客户端下载</h1><section id=\"intro\"><h2>品牌简介</h2><p>海豚湾(Dolphin) 是面向个人与团队的官方机场订阅与 VPN 加速服务。我们把线路质量、流媒体解锁和客户端导入流程放在同一套清晰方案里，让您用订阅地址即可在多端完成网络加速，而无需反复寻找节点。</p><p>服务覆盖日常跨境访问、内容解锁与游戏优化。基础线路适合浏览与轻度使用；旗舰与团队方案提供 IPLC 专线、更高同时在线设备数以及优先支持。本站为海豚湾官方入口，套餐说明、配置步骤与客户端获取方式均在此公开。</p><p class=\"muted\">节点方向以亚太与北美常用区域为主，含香港、日本、新加坡、美国等优化线路。实际可用节点以控制台订阅更新为准。</p></section><section id=\"plans\"><h2>套餐方案</h2><p>按流量、设备数与线路等级选择即可。年付可锁定全年价格。以下为当前公开方案，便于对照配置需求。</p><div class=\"plans\"><article class=\"card\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"muted\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"card featured\"><p class=\"tag\">推荐配置</p><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"muted\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"card\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"muted\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article></div></section><section id=\"scenes\"><h2>使用场景</h2><h3>流媒体与内容访问</h3><p>需要稳定观看海外平台时，优先选择旗舰版。该方案强调全节点原生解锁，减少因公共线路被识别而导致的加载失败。基础版可覆盖常见站点的基础解锁需求。</p><h3>游戏与实时对战</h3><p>旗舰版含 IPLC 专线游戏加速优化，适合对延迟和丢包更敏感的场景。选择距离更近或标注游戏优化的节点，再配合系统代理即可。</p><h3>远程办公与资料检索</h3><p>访问协作文档、代码仓库或学术资源时，稳定的长连接比单纯追求峰值带宽更重要。海豚湾将常用办公与学习站点纳入日常线路维护范围。</p><h3>家庭共用与小团队</h3><p>设备超过 5 台或需要统一路由策略时，使用团队版。20 台同时在线与定制路由，便于把订阅集中管理，而不是给每台设备单独寻找加速器。</p></section><section id=\"guide\"><h2>配置流程与操作说明</h2><p>海豚湾采用标准机场订阅：一次复制链接，客户端自动拉取节点。请按下列顺序操作，可减少导入失败。</p><div class=\"box\"><h3>第一步：确认套餐与设备数量</h3><p>对照同时在线台数与月流量。个人浏览选基础版；需要原生流媒体或游戏线路选旗舰版；多人共用选团队版。年付适合长期使用。</p><h3>第二步：在官网获取订阅链接</h3><p>登录海豚湾控制台后，复制通用订阅地址（常见为 Clash / V2Ray / Surge 兼容格式）。不要把订阅链接公开发布，避免流量被盗用。</p><h3>第三步：安装对应系统客户端</h3><p>Windows 与 Android 常用 Clash Meta 系客户端；macOS 可用 Clash Meta 或 Surge；iOS 常用 Shadowrocket、Stash 或 Quantumult X。软件请从各项目官方发布渠道获取。</p><h3>第四步：导入订阅并更新</h3><p>打开客户端的订阅或配置页，粘贴海豚湾订阅 URL，保存后点击更新。成功后节点列表会出现分区名称，例如普通线路、IPLC、流媒体等。</p><h3>第五步：选择节点并开启系统代理</h3><p>先选延迟较低的节点，再开启 HTTP/SOCKS 或 TUN 模式。浏览器或游戏即可走加速通道。若某节点失败，更新订阅后换一条线路即可，无需重装。</p></div></section><section id=\"download\"><h2>客户端与官网下载说明</h2><p>本页是海豚湾(Dolphin)官方网站入口，用于说明机场订阅与加速器用法。我们不捆绑安装包，以避免来路不明的客户端植入无关模块。请按系统选择主流开源或正版客户端，再导入本站订阅。</p><h3>桌面端</h3><p>Windows：Clash Meta / Clash Verge 一类图形客户端，导入订阅后开启系统代理。macOS：Clash Meta 或 Surge。Linux：命令行或兼容 Clash 的图形前端均可。</p><h3>移动端</h3><p>Android：Clash Meta for Android。iOS：Shadowrocket、Stash、Quantumult X（通常需外区商店）。导入同一条海豚湾订阅即可多设备同步节点，仍需遵守套餐设备上限。</p><p><a href=\"#guide\">返回配置流程</a> · <a href=\"#plans\">查看套餐</a> · <a href=\"#\">官方下载指引</a></p></section><section id=\"faq\"><h2>常见问题</h2><details><summary>如何确认自己访问的是海豚湾官网？</summary><p>认准品牌名称「海豚湾(Dolphin)」以及本页公开的套餐、配置与客户端说明。官方不会通过陌生链接索要账号密码。收藏本站入口后再登录控制台复制订阅，可降低钓鱼风险。</p></details><details><summary>机场订阅和普通单一 VPN 有什么不同？</summary><p>海豚湾以机场订阅交付节点：客户端定时更新线路，您可按延迟、解锁能力切换。传统单一 VPN 往往只有固定入口。订阅模式更适合需要同时覆盖浏览、流媒体和游戏的用户。</p></details><details><summary>客户端应该从哪里下载才安全？</summary><p>请从 Clash、Shadowrocket、Surge、Quantumult 等软件自己的官方发布页或应用商店获取。海豚湾提供订阅与导入步骤，不在页面分发安装包，也不要求您关闭系统安全功能。</p></details><details><summary>三个套餐分别适合谁？</summary><p>基础版面向流量和设备都不多的个人用户，含 100GB 与 3 台设备。旗舰版适合需要原生流媒体与 IPLC 游戏优化的用户，含优先工单。团队版面向 20 台设备、高流量和定制路由的小团队。</p></details><details><summary>连不上节点或流媒体失败时怎么处理？</summary><p>先在客户端更新订阅，更换同区域其他节点，并确认系统时间准确、代理模式已开启。流媒体请使用旗舰版标注解锁的线路。若仍失败，旗舰与团队用户可通过优先工单反馈节点名称与错误提示。</p></details><details><summary>流量如何计算，用完后还能上网吗？</summary><p>套餐流量按月度额度统计，实际规则以控制台显示为准。用尽后加速通道会受限，可升级到更高套餐或等待下一周期重置。年付只是支付方式优惠，不改变每月额度结构。</p></details></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><p>广告：海豚湾官方信息展示位。合作与线路咨询请走工单，不在页面投放不明跳转。</p><p>友情链接</p><div class=\"links\"><a href=\"#\">网络加速工具导航</a><a href=\"#\">客户端配置手册</a><a href=\"#\">IPLC 线路说明</a><a href=\"#\">流媒体解锁须知</a></div><p><a href=\"#\">网站地图 Sitemap</a> · <a href=\"#intro\">回到简介</a></p><p>© 海豚湾(Dolphin) 官方网站 · 机场订阅与 VPN 加速器服务说明。本页仅提供公开套餐与配置指引。</p></footer>",
+          "hash": "027d8d3067c846bf851a6f6ddc77898f58e4514c55104634eae1a863b62bed2e",
+          "seo": {
+            "title": "海豚湾(Dolphin)官网 - 机场订阅、VPN梯子与客户端下载",
+            "keywords": "海豚湾,Dolphin,海豚湾机场,海豚湾VPN,梯子,网络加速,加速器,客户端下载,官网下载,机场订阅",
+            "description": "海豚湾(Dolphin)是官方机场与VPN加速服务，提供稳定节点、流媒体解锁、IPLC 游戏优化及多端客户端下载，帮助您完成订阅导入与网络加速。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "ikantech.com",
+    "host": "p-9d2ba0d494.ikantech.com",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "ikantech.com",
+      "url": "https://ikantech.com/",
+      "label": "墙洞(Dler)",
+      "apex": "ikantech.com",
+      "kind": null,
+      "identity": "kayuvao/page-6405656386a9c40993ca8f81"
+    },
+    {
+      "host": "fxhsn3.cn",
+      "url": "https://fxhsn3.cn/",
+      "label": "海豚湾(Dolphin)",
+      "apex": "fxhsn3.cn",
+      "kind": null,
+      "identity": "pusrrxun/page-75531e87e3db5dc2f63c0873"
+    },
+    {
+      "host": "jinghaiqiche.cn",
+      "url": "https://jinghaiqiche.cn/",
+      "label": "海豚湾(Dolphin)",
+      "apex": "jinghaiqiche.cn",
+      "kind": null,
+      "identity": "vgmxtstnana/page-f4619f6ac50866cb26431dca"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "5339c044a1da40f7ca99e9094a78d0b8675f3c1db607ce5e4767c9618caac63d",
+    "sitemap.xml": "16cf12fbbcfa54b1ffe810b6b1439177ed507331d4c3ed4e4966617d7d2ac4c3",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "d24d329ccd55c8a32c09cc90b98d7711644cfe6346d18201a0f2f44315c52e38",
+    "robots.txt": "fdf55be888617797fe5655902001234ed3461663514771610df43eee6ad7413f",
+    "7cebc91628fc7d271e4786d48b294414.txt": "6eda1bf99c6b48652d2567fd81c52005332310fa34a8abbd32f09f3e3cb8546f"
+  },
+  "revision": "99155716576fb6ab1a8b2f3c5adb8a157dce868d6446110f664d9061495dbccc"
+}
